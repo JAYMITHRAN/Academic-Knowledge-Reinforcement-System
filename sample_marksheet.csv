@@ -1,0 +1,17 @@
+student_code,course_code,marks,max_marks,exam_type
+STU001,CS301,45,100,semester
+STU001,CS302,72,100,semester
+STU001,CS303,38,100,semester
+STU001,CS304,88,100,semester
+STU002,CS301,65,100,semester
+STU002,CS302,55,100,semester
+STU002,CS303,91,100,semester
+STU002,CS304,48,100,semester
+STU003,CS301,82,100,semester
+STU003,CS302,77,100,semester
+STU003,CS303,60,100,semester
+STU003,CS304,95,100,semester
+STU001,CS301,32,50,mid
+STU001,CS302,41,50,mid
+STU002,CS301,28,50,mid
+STU002,CS302,35,50,mid

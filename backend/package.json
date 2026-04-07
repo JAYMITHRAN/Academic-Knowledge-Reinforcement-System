@@ -1,0 +1,24 @@
+{
+  "name": "akrs-backend",
+  "version": "1.0.0",
+  "description": "Academic Knowledge Reinforcement System - Backend",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "firebase-admin": "^12.0.0",
+    "groq-sdk": "^1.1.2",
+    "multer": "^2.0.0",
+    "mysql2": "^3.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
